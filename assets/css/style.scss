@@ -5,6 +5,19 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+<center>
+    <marquee  behavior="alternate" direction="left">          
+          <img src= "ferramentas.png"
+
+          alt="GeeksforGeeks logo"> 
+    </marquee>  
+      
+   <marquee  behavior="alternate" direction="right">         
+          <img src= 
+"loja.png"
+          alt="GeeksforGeeks logo"> 
+    </marquee>  
+</center>
 <img style="float:right" margim="200" width="80px" height="100px" src="ferramentas.png"/>
 <img style="float:right" margim="200" width="80px" height="100px" src="loja.png"/>
 <img style="float:right" margim="200" width="80px" height="100px" src="chave.png"/>
