@@ -11,8 +11,9 @@ Temos diversas opções de ferramentas, acessorias e utensílios.
 [minima](https://github.com/jekyll/minima)
 
 Veja algumas imagens exemplares:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![](assets/seguranca.png)
+![](assets/ferramentas.png)
+![](assets/loja.png)
 
 
 [jekyll-organization]: https://github.com/jekyll
