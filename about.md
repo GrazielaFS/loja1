@@ -14,6 +14,7 @@ Veja algumas imagens exemplares:
 ![](assets/seguranca.png)
 ![](assets/ferramentas.png)
 ![](assets/loja.png)
+![](assets/chave.png)
 
 
 [jekyll-organization]: https://github.com/jekyll
