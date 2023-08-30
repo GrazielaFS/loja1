@@ -11,10 +11,11 @@ Temos diversas opções de ferramentas, acessorias e utensílios.
 [minima](https://github.com/jekyll/minima)
 
 Veja algumas imagens exemplares:
-<img src="assets/seguranca.png" wigth="50px" height="50px"/>
-![](assets/ferramentas.png)
-![](assets/loja.png)
-![](assets/chave.png)
+<img src="assets/seguranca.png" wigth="80px" height="80px"/>
+<img src="assets/ferramentas.png" wigth="80px" height="80px"/>
+<img src="assets/loja.png" wigth="80px" height="80px"/>
+<img src="assets/chave.png" wigth="80px" height="80px"/>
+
 
 
 [jekyll-organization]: https://github.com/jekyll
