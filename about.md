@@ -11,7 +11,7 @@ Temos diversas opções de ferramentas, acessorias e utensílios.
 [minima](https://github.com/jekyll/minima)
 
 Veja algumas imagens exemplares:
-![](assets/seguranca.png)
+<img src="assets/seguranca.png" wigth="50px" height="50px"/>
 ![](assets/ferramentas.png)
 ![](assets/loja.png)
 ![](assets/chave.png)
