@@ -5,6 +5,24 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+figure{position: relative;}
+figure:before,
+figure:after {
+  content: '';
+  height: 50%
+  width: 50%
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+img{
+  Width: 50%;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+}
+
 <center>
     <marquee  behavior="alternate" direction="left">          
           <img src= "ferramentas.png"
