@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opções
-permalink: 
+permalink: /Opções/
 ---
 
 Site exclusivo para demonstração de nossos prudutos oferecidos tanto em loja fisica como em loja virtual. 
