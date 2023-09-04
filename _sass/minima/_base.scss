@@ -8,8 +8,8 @@ html {
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
 
 }
 
@@ -20,8 +20,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: #ff0;
-  background-color: #ccc;
+  color: #000000;
+  background-color: #00BFFF;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -116,7 +116,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: #0f0;
+    color: #800000;
   }
 
   &:hover {
