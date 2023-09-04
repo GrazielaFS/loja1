@@ -12,10 +12,10 @@ Temos diversas opções de ferramentas, acessorias e utensílios.
 
 Veja algumas imagens exemplares:
 
-<img src="assets/seguranca.png" width="120px" height="100px"/>   
-<img src="assets/ferramentas.png" width="120px" height="100px"/> 
-<img src="assets/loja.png" width="120px" height="100px"/>        
-<img src="assets/chave.png" width="120px" height="100px"/>
+<img src="assets/seguranca.png" width="160px" height="130px"/>   
+<img src="assets/ferramentas.png" width="160px" height="130px"/> 
+<img src="assets/loja.png" width="160px" height="130px"/>        
+<img src="assets/chave.png" width="160px" height="130px"/>
 
 
 
